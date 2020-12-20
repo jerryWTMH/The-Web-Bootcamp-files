@@ -1,7 +1,5 @@
 # The-Web-Bootcamp-files
-This repo is my code for the Udemy course: The Web Developer Bootcamp 2020
-
-And I changed the code to personalize these little projects~
+This repo is my code for the Udemy course: The Web Developer Bootcamp 2020, and I changed the code to **personalize these little projects**:sunny:
 
 - **Chapter 9: project1.html** (I share the beautiful photos about my future school: Duke University, by making this web code, I hope I could let more people know the beauty of my school.)
 
